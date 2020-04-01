@@ -1,0 +1,4 @@
+Running python:
+1. Navigate to the directory 
+2. create a file with the filename with .py
+3, Run using python3 file_name.py

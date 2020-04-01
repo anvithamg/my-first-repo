@@ -1,0 +1,16 @@
+pwd -> present working directory
+cd -> change directory
+	cd ..    go back one directory
+	cd ~     go to home directory (current user's home)
+	cd       .............................
+Use tab for autocompletion.
+Press tab two times after typing something to get suggestions
+"Case-Sensitive"
+mkdir direc_name -> make directory
+rmdir direc_name -> remove directory ( warning: directory should be empty)
+rm file_name   -> remove a file
+	rm -rf direc_name   Remove a directory which is not empty
+touch file_name -> just creates empty file it will do nothing with that file
+do it again.
+
+	
